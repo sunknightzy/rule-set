@@ -9,6 +9,7 @@ payload:
   - '+.binancezh.co'
   - '+.binancezh.in'
   - '+.binancezh.top'
+  - '+.binancezh.biz'
   - '+.pexpay.com'
   - '+.pexpay.co'
   - '+.ftx.com'
