@@ -13,3 +13,4 @@ payload:
   - '+.pexpay.com'
   - '+.pexpay.co'
   - '+.ftx.com'
+  - '+.bingx.com'
